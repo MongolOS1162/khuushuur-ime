@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component>
+  <name>org.freedesktop.IBus.KhuushuurIME</name>
+  <description>Khuushuur Mongolian IME</description>
+  <exec>/usr/local/bin/khuushuur-core</exec>
+  <version>1.0.0</version>
+  <author>Ericwasepic127 &lt;ericwasepic127@outlook.com&gt;</author>
+  <license>MIT</license>
+  <homepage>https://github.com/ericwasepic127/</homepage>
+  <textdomain>ibus</textdomain>
+  <engines>
+    <engine>
+      <name>xkb:mn::ime</name>
+      <language>mn</language>
+      <license>MIT</license>
+      <layout>en</layout>
+      <icon>ibus-keyboard</icon>
+      <longname>KhuushuurIME</longname>
+      <description>Mongolian</description>
+      <rank>99</rank>
+    </engine>
+  </engines>
+</component>

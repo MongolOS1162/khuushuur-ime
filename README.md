@@ -1,2 +1,2 @@
 # khuushuur-ime
-A latin to Cyrlicc converter/Латинаак Монгол руу хөрвүүлэгч
+A latin to Cyrlicc converter/Латинаас Монгол руу хөрвүүлэгч
